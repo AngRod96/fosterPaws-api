@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Angie Rodriguez",
+      "email": "Arod@netvibes.com",
+      "img": "https://greatrescue.org/wp-content/uploads/2022/07/adopt.jpg",
+      "bio": "I am a web developer who is also passionate about animal welfare. On my free time i volunteer at a local animal shelter. My ultimate goal is to be able to help animals around the world that are left in the streets and give them a good home. "
+    },
+    {
+      "id": 2,
+      "fullName": "John Smith",
+      "email": "john.smith@example.com",
+      "img": "https://media.istockphoto.com/id/1277873802/photo/portrait-of-a-mature-man-with-a-little-smile-at-the-camera-right-side-of-the-picture.jpg?s=612x612&w=0&k=20&c=alDrDybCZBySQnnAR7jfiXkoLWVUAa64HuVEJl2L0fk=",
+      "bio": "I am a software engineer who is also passionate about animal welfare. I volunteer at a local animal shelter, fostering dogs and cats in need of temporary homes. I believes in the importance of adoption and hope to find loving families for these animals."
+    },
+    {
+      "id": 3,
+      "fullName": "Emily Johnson",
+      "email": "emily.johnson@example.com",
+      "img": "https://static.boredpanda.com/blog/wp-content/uploads/2015/04/Girls-and-their-Cats-Photographer-captures-NYC-women-with-their-furry-companions-24__880.jpg",
+      "bio": "I am an artist and animal lover who actively fosters cats. I believes in providing a safe and nurturing environment for these animals while they wait for their forever homes. I also enjoy documenting their journey through my artwork and raising awareness about pet adoption."
+    },
+    {
+      "id": 4,
+      "fullName": "Michael Davis",
+      "email": "michael.davis@example.com",
+      "img": "https://media.istockphoto.com/id/1300658241/photo/young-man-is-playing-with-a-dog-and-do-selfie.jpg?s=612x612&w=0&k=20&c=3GuywLL9CeC7VRRcbH35ZRYLRtvmObrvmFjQqTgNjCE=",
+      "bio": "I am a fitness trainer with a big heart for animals. Currently I foster dogs as part of my commitment to giving back to the community. I enjoy taking the foster pets on outdoor adventures and helping them socialize to prepare them for adoption."
+    },
+    {
+      "id": 5,
+      "fullName": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "img": "https://st3.depositphotos.com/2208684/16191/i/450/depositphotos_161910432-stock-photo-middle-aged-woman-standing.jpg",
+      "bio": "I am a dedicated teacher who extends my love and care to animals by fostering dogs and cats. I believe in the healing power of pets and often incorporate lessons about compassion and responsible pet ownership into my classroom. I am an advocate for spaying/neutering and promoting adoption from shelters."
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "breedId": 1,
+      "userId": 2,
+      "title": "Charlie",
+      "body": "Charlie is a 8 year old boxer, super smart and curious dog, always exploring his surrounding and eager to learn new things, he is friendly and playful. Gets along with both dogs and cats.",
+      "petPicture": "https://www.dogzone.com/images/breeds/boxer.jpg"
+    },
+    {
+      "id": 2,
+      "breedId": 1,
+      "userId": 1,
+      "title": "Bellaa",
+      "body": "Bella is a 4 month old female mix puppy. She is a playful and energetic dog, loves to run and play fetch as well as snuggling up on the couch. ",
+      "petPicture": "https://bigfluffydogs.com/wp-content/uploads/2023/07/mrs-jones.jpg"
+    },
+    {
+      "id": 3,
+      "breedId": 1,
+      "userId": 2,
+      "title": "Max",
+      "body": "Max is a 5 year old Golden Retriever male. He is a friendly and loyal companion, always eager to please and be by your side. He is intelligent and enoys learning new tricks and commands. ",
+      "petPicture": "https://www.goldenrescue.com/wp-content/uploads/2020/02/214.jpg"
+    },
+    {
+      "id": 4,
+      "breedId": 1,
+      "userId": 2,
+      "title": "Luna",
+      "body": "Luna is a 2 year old female mix. She is a gentle and affectionate dog with a very calm demeanor. She loves cuddling andd being close to her human companions. Luna also perfers a quiet enviroment so she gets along best with calm dogs and cats.",
+      "petPicture": "https://www.timesrecordnews.com/gcdn/presto/2019/09/24/PWTR/464e183f-198c-4b17-8823-6466873d5ee0-Shelby.jpg?width=660&height=864&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+      "id": 5,
+      "breedId": 1,
+      "userId": 4,
+      "title": "Rocky",
+      "body": "Rocky is a 1 year old pitbull who is very courageous and protective dog, known for his loyalty and bravery. Hes a great watch dog and is always ready to stand by his familys side. Due to him bonding deeply with his family, he may need proper introduction to new people.  ",
+      "petPicture": "https://static.wixstatic.com/media/b0e613_92835163d2134b9dbb98c3322b67aab6~mv2.jpg/v1/fit/w_438,h_716,q_90/b0e613_92835163d2134b9dbb98c3322b67aab6~mv2.jpg"
+    },
+    {
+      "id": 6,
+      "breedId": 1,
+      "userId": 5,
+      "title": "Cooper",
+      "body": "Cooper is a 7 year old mix dog. He loves outdoor activities and new adventures. He is super loving towards humans but does not get along with other dogs or cats. ",
+      "petPicture": "https://www.hartz.com/wp-content/uploads/2023/01/genetic-testing-for-dog-breeds-1.jpg"
+    },
+    {
+      "id": 7,
+      "breedId": 2,
+      "userId": 3,
+      "title": "Simba",
+      "body": "Simba is a confident and independent kitten, with a playful and curious nature. He enjoys climnbing and exploring his territory. He prefers attention on his terms, may be selective with other pets. ",
+      "petPicture": "https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-06/Maine%20Coon.2.jpg?h=5c9bb9b0&itok=1xomAA3_"
+    },
+    {
+      "id": 8,
+      "breedId": 2,
+      "userId": 2,
+      "title": "Oliver",
+      "body": "Oliver is a 4 year old frienldy and sociable cat. He enjoys interactive toys and spending time with his human companions. Gets along well with children and other pets, enjoys attention and playtime.",
+      "petPicture": "https://hypoallergenichomes.com/wp-content/uploads/2020/09/domestic-shorthair-cat-hypoallergenic.jpg"
+    },
+    {
+      "id": 9,
+      "breedId": 2,
+      "userId": 5,
+      "title": "Whiskers",
+      "body": "Whiskers is a curious and mischievous kitten, always exploring and getting into playful antics. He enjoys interactive toys and puzzles that challenge his intelligence. He also enjoys interacting with humans, may prefer being the only pet for undivided attention.",
+      "petPicture": "https://www.thesprucepets.com/thmb/MzKr6fC-v8W4D4oz2p9wWCwAFms=/2119x0/filters:no_upscale():strip_icc()/GettyImages-1189893683-e0ff70596b3b4f0687ba573e5a671f74.jpg"
+    },
+    {
+      "id": 10,
+      "breedId": 2,
+      "userId": 3,
+      "title": "Milo",
+      "body": "Milo is a mysterious and independent cat, characterized by his aloof yet charming demeanor. He enjoys lounging in quiet corners and observing the world. He prefers a calm enviroment, bonds on his terms but enjoys gentle interactions.",
+      "petPicture": "https://www.madpaws.com.au/wp-content/uploads/2021/03/Domestic-Longhair.jpg"
+    },
+    {
+      "breedId": 0,
+      "userId": 1,
+      "title": "Lex",
+      "body": "hi",
+      "petPicture": "https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/golden-retriever-dog-breed-info.jpeg",
+      "id": 13
+    }
+  ],
+  "breed": [
+    {
+      "id": 1,
+      "IsDog": "true",
+      "name": "dog"
+    },
+    {
+      "id": 2,
+      "IsDog": "false",
+      "name": "cat"
+    }
+  ]
+}
